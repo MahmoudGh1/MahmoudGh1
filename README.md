@@ -7,11 +7,6 @@
 🌺 #Learninganywhere in coffee, MCIT, Home, and transportations.</br>
 🍃 #Currently Trainee @ MCIT [ITI](https://iti.gov.eg/) CU FullStack MEA|RN and Generative AI</br>
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoudGh1)](https://git.io/streak-stats)
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-gharib-187627233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21322083/mahmoud-gharib) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@chanyeol1399?is_from_webapp=1&sender_device=pc) 
 
