@@ -23,14 +23,11 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahmoudGh1&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 [![Mahmoud GitHub Stats](https://helio-github-stats.vercel.app/api?username=MahmoudGh1&custom_title=Mahmoud+GitHub+Stats&theme=shades-of-purple&title_color=a2ed31&text_color=db769e&icon_color=32c8b6&ring_color=00ffff&border_color=ffffff&hide_border=false&locale=en&border_radius=9&card_width=500&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 ![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudGh1)
-  
-</div>
 
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
